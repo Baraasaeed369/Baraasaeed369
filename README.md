@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Baraa Saied 👋
 
-<!--
-**Baraasaeed369/Baraasaeed369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Data Analyst | Power BI Analyst
 
-Here are some ideas to get you started:
+I'm a Junior Data Analyst interested in transforming data into meaningful insights and interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Power BI
+- DAX
+- SQL
+- Power Query
+- Data Cleaning and Transformation
+- Data Visualization and Reporting
+
+### Projects
+- Power BI Dashboards
+- Data Analytics Projects
+- Egypt's Import Dependency Analysis
+
+I'm continuously developing my analytical skills and building practical projects to support data-driven decision-making.
